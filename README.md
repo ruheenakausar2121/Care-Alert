@@ -4,11 +4,7 @@
 
 Care-Alert is a full-stack healthcare web application that helps patients manage their health digitally — from booking doctor appointments to emergency SOS alerts, all in one place.
 
----
 
-## 🌐 Live Demo
-
-👉 **[https://ruheena-6ee3c.web.app](https://ruheena-6ee3c.web.app)**
 
 ---
 
